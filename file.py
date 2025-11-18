@@ -4,10 +4,13 @@ import joblib
 import re
 
 # ======================================
-# Load model + dataset for dropdowns
+# Load model + dataset
 # ======================================
 model = joblib.load("xgb_model_pipeline.pkl")
-pd.read_csv("my_data.csv")
+
+# FIX: Assign df
+df = pd.read_csv("my_data.csv")
+
 
 # ======================================
 # 🎨 L C S Branding + Header (Title + Logo + Tagline)
@@ -184,3 +187,4 @@ Under <b style='color:#B8860B;'>Innomatics Research Labs</b>
 
 
 # (streamlit_env) (base) C:\Users\yedee\Desktop\Streamlit>streamlit run file.py
+
