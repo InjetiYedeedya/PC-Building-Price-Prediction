@@ -27,7 +27,6 @@ The custom PC building market involves thousands of possible hardware combinatio
 - Customer dissatisfaction
 - Miscommunication among staff
 
-ced business efficiency and a slower customer experience.
 
 
 
