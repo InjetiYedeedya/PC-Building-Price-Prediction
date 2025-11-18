@@ -28,3 +28,14 @@ The custom PC building market involves thousands of possible hardware combinatio
 - Miscommunication among staff
 
 ced business efficiency and a slower customer experience.
+
+
+
+
+# Dataset link: https://figshare.com/articles/dataset/Custom_Pc_Spares/30597281?file=59493641
+# Streamlit link: https://pc-building-price-prediction-iktxwdt5qdnqugubbqtbtz.streamlit.app/
+
+<img width="807" height="813" alt="image" src="https://github.com/user-attachments/assets/fb5c5f40-23e9-45ca-bb1b-e7a956de0ea3" />
+<img width="777" height="766" alt="image" src="https://github.com/user-attachments/assets/e101b419-14f5-41cc-bea6-f8c66094c6a9" />
+<img width="841" height="788" alt="image" src="https://github.com/user-attachments/assets/2e13777f-9d88-4044-bac2-22c207363180" />
+
