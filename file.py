@@ -6,8 +6,8 @@ import re
 # ======================================
 # Load model + dataset for dropdowns
 # ======================================
-model = joblib.load(r"C:\Users\yedee\Desktop\Streamlit\xgb_model_pipeline.pkl")
-df = pd.read_csv(r"C:\Users\yedee\Desktop\Streamlit\my_data.csv")
+model = joblib.load("xgb_model_pipeline.pkl")
+pd.read_csv("my_data.csv")
 
 # ======================================
 # 🎨 L C S Branding + Header (Title + Logo + Tagline)
@@ -24,7 +24,7 @@ st.markdown("""
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image(r"C:\Users\yedee\Desktop\Streamlit\IMG_20251116_165353_315.jpg", width=150)
+    st.image("IMG_20251116_165353_315.jpg", width=150)
 
 with col2:
     st.markdown("""
@@ -181,5 +181,6 @@ Under <b style='color:#B8860B;'>Innomatics Research Labs</b>
 """, unsafe_allow_html=True)
 
 # base) C:\Users\yedee\Desktop\Streamlit>streamlit_env\Scripts\activate
+
 
 # (streamlit_env) (base) C:\Users\yedee\Desktop\Streamlit>streamlit run file.py
