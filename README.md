@@ -31,7 +31,7 @@ The custom PC building market involves thousands of possible hardware combinatio
 
 
 
-# Dataset link: https://figshare.com/articles/dataset/Custom_Pc_Spares/30597281?file=59493641
+# Dataset link:[ https://figshare.com/articles/dataset/Custom_Pc_Spares/30597281?file=59493641](https://figshare.com/articles/dataset/_b_Computer_Peripherals_b_/30615908?file=59717951)
 # Streamlit link: https://pc-building-price-prediction-iktxwdt5qdnqugubbqtbtz.streamlit.app/
 
 <img width="807" height="813" alt="image" src="https://github.com/user-attachments/assets/fb5c5f40-23e9-45ca-bb1b-e7a956de0ea3" />
